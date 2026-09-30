@@ -1,0 +1,6 @@
+{
+  "name": "Notes AI - Full-Stack React, FastAPI & MySQL Notes App",
+  "description": "Full-stack notes application with CRUD operations, MySQL persistence, and AI summarization powered by OpenRouter LLM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

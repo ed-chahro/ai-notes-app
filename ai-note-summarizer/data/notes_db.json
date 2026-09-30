@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Internship Project Plan: Notes App",
+    "content": "Goal is to wire a React frontend with a FastAPI backend and MySQL database. Include full CRUD operations (Create, Read, Update, Delete) and an AI Summarize button using free LLM on OpenRouter.",
+    "category": "Work",
+    "ai_summary": "Full-stack React, FastAPI, and MySQL notes app with OpenRouter AI summarization.",
+    "created_at": "2026-09-29T15:20:46.583Z",
+    "updated_at": "2026-09-29T15:20:46.583Z"
+  },
+  {
+    "id": 2,
+    "title": "OpenRouter Free Models & API Setup",
+    "content": "Sign up on OpenRouter, generate an API key, store it in .env without committing to Git. Use meta-llama/llama-3.1-8b-instruct:free or similar free model for 1-line note summarization.",
+    "category": "Study",
+    "ai_summary": "Securely configure OpenRouter API in .env using free LLM models for concise summaries.",
+    "created_at": "2026-09-30T03:20:46.583Z",
+    "updated_at": "2026-09-30T03:20:46.583Z"
+  },
+  {
+    "id": 3,
+    "title": "Grocery List for Weekend Hackathon",
+    "content": "Need to pick up cold brew coffee, oat milk, sparkling water, dark chocolate, avocados, and protein snack bars for the study group coding session.",
+    "category": "Personal",
+    "ai_summary": "Essential groceries and snacks for weekend hackathon study group.",
+    "created_at": "2026-09-30T11:20:46.583Z",
+    "updated_at": "2026-09-30T11:20:46.583Z"
+  }
+]
